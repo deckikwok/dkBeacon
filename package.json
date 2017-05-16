@@ -1,12 +1,24 @@
 {
-  "name": "dkBeacon",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@deckikwok/dkbeacon",
+  "version": "0.0.1",
+  "description": "beacon lib for eddystone, ibeacon, altbeacon (soon...)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha --reporter spec"
   },
   "keywords": [],
   "author": "Decki Kwok <deckisns@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deckikwok/dkBeacon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/deckikwok/dkBeacon/issues"
+  },
+  "homepage": "https://github.com/deckikwok/dkBeacon#readme",
+  "devDependencies": {
+    "chai": "=3.5.0",
+    "mocha": "=3.4.1"
+  }
 }
