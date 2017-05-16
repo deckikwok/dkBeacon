@@ -1,6 +1,6 @@
 {
   "name": "@deckikwok/dkbeacon",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "beacon lib for eddystone, ibeacon, altbeacon (soon...)",
   "main": "index.js",
   "scripts": {
