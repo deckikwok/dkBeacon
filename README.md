@@ -1,7 +1,10 @@
-Number Formatter
+BEACON
 =========
 
 A beacon lib for eddystone, ibeacon, altbeacon (soon...)
+
+## Motivation
+
 
 ## Installation
 
@@ -17,6 +20,7 @@ A beacon lib for eddystone, ibeacon, altbeacon (soon...)
   Output should be `35,666`
 
 
+
 ## Tests
 
   `npm test`
@@ -25,3 +29,5 @@ A beacon lib for eddystone, ibeacon, altbeacon (soon...)
 
 In lieu of a formal style guide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code.
 
+
+## License
