@@ -1,0 +1,12 @@
+{
+  "name": "dkBeacon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Decki Kwok <deckisns@gmail.com>",
+  "license": "ISC"
+}
