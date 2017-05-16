@@ -1,4 +1,4 @@
-BEACON
+BEACON  [![Coverage Status](https://coveralls.io/repos/github/deckikwok/dkBeacon/badge.svg?branch=master)](https://coveralls.io/github/deckikwok/dkBeacon?branch=master)
 =========
 
 A beacon lib for eddystone, ibeacon, altbeacon (soon...)
