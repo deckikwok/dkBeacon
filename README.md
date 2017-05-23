@@ -1,6 +1,8 @@
 BEACON  [![Coverage Status](https://coveralls.io/repos/github/deckikwok/dkBeacon/badge.svg?branch=master)](https://coveralls.io/github/deckikwok/dkBeacon?branch=master)
 =========
 
+for demo . do npm install -g ts-node
+
 A beacon lib for eddystone, ibeacon, altbeacon (soon...)
 
 ## Motivation

@@ -1,0 +1,11 @@
+/src
+/coverage
+/.idea
+/.awcache
+
+/test
+/.coveralls.yml
+/.travis.yml
+/tsconfig.json
+/webpack.*
+#todo: check why no need node_modules
